@@ -1,0 +1,26 @@
+{
+  "name": "cupevents",
+  "version": "1.0.1",
+  "description": "enables working with global events (events every element can listen to) ",
+  "main": "cupEvents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dejavu333/cupEvents.git"
+  },
+  "keywords": [
+    "events",
+    "global",
+    "listen",
+    "emit",
+    "dispatch"
+  ],
+  "author": "dejavu333",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dejavu333/cupEvents/issues"
+  },
+  "homepage": "https://github.com/Dejavu333/cupEvents#readme"
+}
